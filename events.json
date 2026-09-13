@@ -1,0 +1,8 @@
+[
+  {"id":"e1","title":"TechX Hackathon 2026","category":"Technical","date":"2026-08-22","time":"9:00 AM","venue":"Exploretorium","price":199,"icon":"💻","class":"tech","description":"A 24-hour coding challenge for builders, designers and innovators."},
+  {"id":"e2","title":"Rhythm Night","category":"Cultural","date":"2026-08-28","time":"6:00 PM","venue":"Main Auditorium","price":149,"icon":"🎤","class":"","description":"Music, dance and live performances by Chitkara students."},
+  {"id":"e3","title":"Campus Football Cup","category":"Sports","date":"2026-09-03","time":"4:00 PM","venue":"University Ground","price":0,"icon":"⚽","class":"sports","description":"Cheer for campus teams in the inter-department football finals."},
+  {"id":"e4","title":"UI/UX Design Sprint","category":"Workshops","date":"2026-09-08","time":"11:00 AM","venue":"Block C Lab 4","price":99,"icon":"🎨","class":"workshop","description":"Learn research, wireframing and prototyping through a practical sprint."},
+  {"id":"e5","title":"Startup Pitch Arena","category":"Technical","date":"2026-09-14","time":"2:00 PM","venue":"Einstein Hall","price":49,"icon":"🚀","class":"tech","description":"Student founders pitch ideas to mentors and an expert jury."},
+  {"id":"e6","title":"Open Mic Evening","category":"Cultural","date":"2026-09-19","time":"5:30 PM","venue":"Square One","price":79,"icon":"🎙️","class":"","description":"Poetry, comedy, storytelling and acoustic performances."}
+]
