@@ -24,8 +24,8 @@ export function Layout({ children, events, user, onLogout }) {
       <header className="site-header">
         <nav className="nav" aria-label="Main navigation">
           <Link className="brand" to="/">
-            <img className="brand-text" src={`${import.meta.env.BASE_URL}assets/text2.png`} alt="UTix" />
-           <img className="brand-logo" src={`${import.meta.env.BASE_URL}assets/logo.jpeg`} alt="Chitkara logo" />
+<img className="brand-text" src="/assets/text2.png" alt="UTix" />
+<img className="brand-logo" src="/assets/logo.jpeg" alt="Chitkara logo" />
           </Link>
 
           <div className="nav-links">
@@ -56,7 +56,7 @@ export function Layout({ children, events, user, onLogout }) {
               onClick={() => setSearchOpen(true)}
               aria-label="Search"
             >
-             <img src={`${import.meta.env.BASE_URL}assets/search.png`} alt="" />
+            <img src="/assets/search.png" alt="" />
             </button>
 
             {user ? (
@@ -128,8 +128,8 @@ function Footer() {
         <div className="footer-grid">
           <div>
             <Link className="brand" to="/">
-              <img className="brand-text" src={`${import.meta.env.BASE_URL}assets/text2.png`} alt="UTix" />
-              <img className="brand-logo" src={`${import.meta.env.BASE_URL}assets/logo.jpeg`} alt="" />
+             <img className="brand-text" src="/assets/text2.png" alt="UTix" />
+              <img className="brand-logo" src="/assets/logo.jpeg" alt="" />
             </Link>
             <p>Chitkara University's campus event discovery and ticket-booking platform.</p>
           </div>
